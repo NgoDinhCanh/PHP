@@ -1,0 +1,37 @@
+question_id|option_id|option|point
+1|a|Vào buổi sáng|2
+1|b|Vào buổi chiều và chớm tối|4
+1|c|Vào đêm muộn|6
+2|a|Khá nhanh với bước chân dài|6
+2|b|Khá nhanh với bước chân ngắn|4
+2|c|Không nhanh lắm ,đầu ngẩng cao,hướng mặt ra cả thế giới|7
+2|d|Không nhanh lắm ,đầu cúi xuống|2
+2|e|Rất chậm|1
+3|a|Đứng ,khoanh tay|4
+3|b|Siết chặt hai bàn tay|2
+3|c|Đặt một hoặc cả hai tay lên hông|5
+3|d|Chạm hoặc đẩy người đối thoại|7
+3|e|Sờ tai, xóa cằm hoặc nghịch tóc|6
+4|a|Đầu gối cong , hai chân khép sát vào nhau|4
+4|b|Hai chân bắt chéo nhau|6
+5|a|Cười lớn|5
+5|b|Cười,nhưng không cười lớn|4
+5|c|Cười lặng lẽ|3
+5|d|Cười bẽn lẽn,ngượng ngũng|5
+6|a|Gây ồn ào khi đến để mọi người chú ý|6
+6|b|Đến lặng lẽ, và tìm người bạn quen biết|4
+6|c|Bước vào một cách lặng lẽ nhất,cố gắng không bị chú ý|2
+7|a|Chào đón "Kẻ phá đám"|6
+7|b|Cảm thấy thực sự khó chịu|2
+7|c|Mơ hồ giữa hai thái cực|4
+8|a|Đỏ hoặc da cam|6
+8|b|Đen|7
+8|c|Vàng hoặc xanh nhạt|5
+8|d|Xanh lá cây|4
+8|e|Xanh thẫm or tím|3
+9|a|Nằm thẳng|3
+9|b|Nằm nghiêng|4
+9|c|Nằm co ro|5
+10|a|Rơi tự do|3
+10|b|abc|2
+10|c|def|4

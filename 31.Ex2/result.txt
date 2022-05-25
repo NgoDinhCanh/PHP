@@ -1,0 +1,7 @@
+min|max|result
+0|20|Người khác nghĩ bạn nhút nhát,hay bối rối và thiếu quyết đoán ,một người cần được chăm sóc quan tâm
+21|30|Bạn bè của bạn coi bạn là người chịu khó và cầu kỳ .Họ thấy bạn rất thận trọng cẩn thận cần cù.
+31|40|Người khác coi bạn là người nhảy cảm , thận trọng , cẩn thận và thực dụng.
+41|50|Người khác coi bạn là người luôn tươi mới ,vui vẻ ,hấp dẫn , thú vị,thực dụng,một người luôn là tâm điểm .
+51|60|Người khác coi bạn là người dễ bị kích động,rất đễ thay đổi ,khá bốc đồng ,một nhà lãnh đạo bẩm sinh.
+60|200|Người khác luôn coi bạn là người mà họ nên "cẩn thận khi tiếp xúc". Bạn kiêu ngạo , luôn coi mình là trung tâm.
