@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.content{
+    font-size: 18px;
+    margin: 10px 20px;
+}
+.content h1{
+    color :red;
+    text-align: center;
+}
+.image {
+    align-items: center;
+    text-align: center;
+}
+
