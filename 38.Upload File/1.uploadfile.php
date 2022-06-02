@@ -12,7 +12,7 @@
 <body>
     <div class="content">
         <h1>PHP file upload</h1>
-        <form action="3.upload.php" method="POST" name="main-form" id="main-form" enctype="multipart/form-data">
+        <form action="3.upload_file.php" method="POST" name="main-form" id="main-form" enctype="multipart/form-data">
             <input type="file" name="file-upload">
             <input type="submit" value="Submit" name="submit">
         </form>

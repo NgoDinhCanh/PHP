@@ -1,0 +1,1 @@
+[02-Jun-2022 08:27:20 Europe/Berlin] PHP Warning:  file_get_contents(data.txt): failed to open stream: No such file or directory in C:\DXD\26.PHP\41.Error Exception\04.php on line 4
